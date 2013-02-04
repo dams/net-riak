@@ -1,2 +1,13 @@
+_build
 .build
+*~
+*#
+*.bak
+*.old
+*.rej
+*.swp
+*.swo
+*.tmp
+*.project
+log*
 Net-Riak*
